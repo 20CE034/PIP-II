@@ -1,7 +1,7 @@
 ## PIP259
 ## NAME - 20CE034 DEV GUNDALIA
 # Github Repository link - https://github.com/20CE034/PIP-II
-#Code Link - 
+#Code Link - https://github.com/20CE034/PIP-II/blob/main/P2_Set.py
 
 
 # A ) Write a Python program to add member(s) in a set and clear a set
@@ -40,10 +40,7 @@ print("Union of A and B :",Set1.union(Set2))
 # Difference will return the Difference of two set as a new set
 print("difference of A and B :",Set1.difference(Set2))
 
-
-# --------------------------   D   ---------------------------------------------
-# d. Write a Python program to find maximum and the minimum value in a set.
-# ------------------------------------------------------------------------------
+# D ) Write a Python program to find maximum and the minimum value in a set.
 Set3={1,2,-9,2,0,9}
 print("Max in set :",max(Set3))
 print("Min in Set :",min(Set3))
